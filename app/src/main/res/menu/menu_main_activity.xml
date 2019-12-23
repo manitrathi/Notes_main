@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_delete_all"
+        android:icon="@drawable/ic_delete_forever"
+        android:title="@string/menu_delete_all"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_sorting_buttons"
+        android:icon="@drawable/ic_filter_list"
+        android:title="@string/menu_sort"
+        app:showAsAction="ifRoom">
+
+        <menu>
+
+            <item
+                android:id="@+id/menu_sort_alphabetically"
+                android:icon="@drawable/ic_sort_by_alpha"
+                android:title="@string/menu_sort_alphabetically" />
+
+            <item
+                android:id="@+id/menu_sort_by_date"
+                android:icon="@drawable/ic_date"
+                android:title="@string/menu_sort_by_date" />
+
+            <item
+                android:id="@+id/menu_sort_by_priority"
+                android:icon="@drawable/ic_priority"
+                android:title="@string/menu_sort_by_priority" />
+
+        </menu>
+    </item>
+</menu>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="adapter_priority_formatted_string">Priority: %d</string>
+    <string name="empty_edittext">This field\ncannot be empty!</string>
+    <string name="hint">Enter your note</string>
+    <string name="menu_add_notification">Set a reminder</string>
+    <string name="menu_delete_all">Delete all</string>
+    <string name="menu_save_note">Save</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_sort">Sort</string>
+    <string name="menu_sort_alphabetically">Sort alphabetically</string>
+    <string name="menu_sort_by_date">Sort by date</string>
+    <string name="menu_sort_by_priority">Sort by priority</string>
+    <string name="number_picker_priority_label">Priority:</string>
+    <string name="activity_add_title">New note</string>
+    <string name="activity_edit_title">Edit note</string>
+    <string name="activity_note_successfully_saved">Successfully saved</string>
+    <string name="activity_sth_went_wrong">Something went wrong...</string>
+    <string name="activity_update_message">Note updated</string>
+    <string name="alert_delete_all_confirmation_text">Successfully deleted all notes</string>
+    <string name="alert_delete_all_message">Are you sure you want to delete all notes from the list?</string>
+    <string name="delete_note_cancel_button_text">Cancel</string>
+    <string name="delete_note_delete_button_text">Delete</string>
+    <string name="delete_note_confirmation_text">Note deleted</string>
+    <string name="delete_note_prompt_message">Are you sure you want to delete the note?</string>
+    <string name="notification_setup_string">"Notification has been set for\n"</string>
+    <string name="reminder_title">Notification</string>
+    <string name="save_progress_prompt_button_cancel">CANCEL</string>
+    <string name="save_progress_prompt_button_discard">DISCARD</string>
+    <string name="save_progress_prompt_button_save">SAVE</string>
+    <string name="save_progress_prompt_mesage">Do you want to save your progress?</string>
+    <string name="share_note_string">"Share note\n"</string>
+    <string name="notification_close_button_text">Close</string>
+    <string name="notification_open_button_text">Open</string>
+    <string name="alert_save_progress_prompt_title_unsaved_progress">Unsaved progress</string>
+</resources>

@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Notes</string>
+
+    <string name="hint">Wpisz treść notatki</string>
+    <string name="menu_sort">Sortuj</string>
+    <string name="menu_sort_alphabetically">Sortuj alfabetycznie</string>
+    <string name="menu_sort_by_date">Sortuj po dacie</string>
+    <string name="menu_sort_by_priority">Sortuj po priorytecie</string>
+    <string name="menu_delete_all">Usuń wszystko</string>
+    <string name="menu_add_notification">Ustaw przypomnnienie</string>
+    <string name="menu_save_note">Zapisz</string>
+    <string name="empty_edittext">Pole nie może\nbyć puste!</string>
+    <string name="number_picker_priority_label">Priorytet:</string>
+    <string name="menu_share">Udostępnij</string>
+    <string name="adapter_priority_formatted_string">Priorytet: %d</string>
+    <string name="activity_edit_title">Edytuj</string>
+    <string name="activity_add_title">Dodaj notatkę</string>
+    <string name="share_note_string">"Wyślij notatkę\n"</string>
+    <string name="notification_setup_string">"Ustawiono przypomnienie na\n"</string>
+    <string name="save_progress_prompt_mesage">Czy chcesz zapisać postępy?</string>
+    <string name="save_progress_prompt_button_save">ZAPISZ</string>
+    <string name="save_progress_prompt_button_discard">ODRZUĆ</string>
+    <string name="save_progress_prompt_button_cancel">ANULUJ</string>
+    <string name="reminder_title">Przypomnienie o zadaniu!</string>
+    <string name="delete_note_prompt_message">Czy na pewno chcesz usunąć notatkę?</string>
+    <string name="delete_note_confirmation_text">Usunięto notatkę</string>
+    <string name="delete_note_delete_button_text">Usuń</string>
+    <string name="delete_note_cancel_button_text">Anuluj</string>
+    <string name="activity_note_successfully_saved">Zapisano</string>
+    <string name="activity_sth_went_wrong">Coś poszło nie tak...</string>
+    <string name="activity_update_message">Zaktualizowano notatkę</string>
+    <string name="alert_delete_all_message">Czy na pewno chcesz usunąć wszystkie notatki z listy?</string>
+    <string name="alert_delete_all_confirmation_text">Pomyślnie usunięto wszystkie notatki</string>
+    <string name="notification_close_button_text">Zamknij</string>
+    <string name="notification_open_button_text">Otwórz</string>
+    <string name="alert_save_progress_prompt_title_unsaved_progress">Niezapisana notatka</string>
+</resources>

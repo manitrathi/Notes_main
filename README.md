@@ -1,6 +1,7 @@
 # Notes
 App allows you to save your important informations that you need to remember.</br>
 You can set notifications and share your notes.
+You can also add your location
 
 # Used technologies and Android components 
 - MVVM

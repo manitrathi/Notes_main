@@ -10,7 +10,7 @@
 
     <item
         android:id="@+id/menu_sorting_buttons"
-        android:icon="@drawable/ic_filter_list"
+        android:icon="@drawable/ic_icon_sort"
         android:title="@string/menu_sort"
         app:showAsAction="ifRoom">
 
@@ -30,6 +30,12 @@
                 android:id="@+id/menu_sort_by_priority"
                 android:icon="@drawable/ic_priority"
                 android:title="@string/menu_sort_by_priority" />
+
+            <item
+                android:id="@+id/menu_sort_by_distance"
+                android:title="Sort by distance"
+                android:icon="@drawable/ic_icon_location"
+                />
 
         </menu>
     </item>

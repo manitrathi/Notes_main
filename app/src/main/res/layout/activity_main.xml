@@ -20,7 +20,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:adjustViewBounds="true"
-        android:src="@drawable/ic_icon_background"
+        android:src="@drawable/ic_icon_emptybg"
         android:visibility="gone" />
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton

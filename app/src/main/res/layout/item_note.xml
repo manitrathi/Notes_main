@@ -25,6 +25,15 @@
             android:text="Kupić karpia"
             android:textAppearance="@style/TextAppearance.AppCompat.Large" />
 
+        <TextView
+            android:id="@+id/loc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:text="45.33, 46.77" />
+
+
         <View
             android:id="@+id/divider"
             android:layout_width="match_parent"
@@ -34,6 +43,7 @@
             android:layout_marginTop="8dp"
             android:layout_marginBottom="6dp"
             android:background="@android:color/darker_gray" />
+
 
         <TextView
             android:id="@+id/date"
